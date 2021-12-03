@@ -1,1 +1,2 @@
 This is my introduction to git
+And I've added this line via the GitHub editor to which anyone can have access
